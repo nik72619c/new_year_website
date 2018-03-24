@@ -1,0 +1,96 @@
+.pagination li a{
+
+    border: none !important;
+}
+.ssection8{
+
+    height: auto;
+}
+.section8-flex{
+
+width: 80%;
+}
+
+
+.flexchild-image{
+
+    overflow: hidden;
+}
+.flexchild-content h3{
+
+    font-size: 22px;
+    font-weight: 600;
+    color: #e709c1;
+    text-transform: capitalize;
+    letter-spacing: 1px;
+    padding-top: 20px;
+}
+
+.flexchild-content p{
+
+    color: #999;
+    line-height: 2em;
+    margin: 1em 0;
+}
+
+.flexchild-content span{
+
+    color: #e709c1;
+}
+
+.flexchild-content a{
+
+    display: inline-block;
+    background: #e709c1;
+    padding: 6px 16px;
+    color: #fff;
+    text-decoration: none;
+}
+
+.flexchild-content h6{
+    font-size: 25px;
+    color: #fff;
+    margin-top: 5px;
+    display: inline-block;
+    padding-right: 5%;
+}
+
+.section8-flexchild {
+
+    background-color: #1C113F;
+    overflow: hidden;
+}
+.cover2{
+
+    background-color: black;
+    position: absolute;
+    opacity: 0.6;
+    width: 100%;
+    height: 100%;
+}
+
+.section8-book{
+
+    transition-duration: 1s;
+}
+.section8-book:hover{
+
+    background-color: #24164F;
+    color: white;
+}
+
+.flexchild-image img{
+
+    transition-duration: 1s;
+    overflow: hidden;
+    
+}
+
+.flexchild-image img:hover{
+
+
+transform: scale(1.5,1.5);
+overflow: hidden;
+opacity: 0.6;
+}
+
