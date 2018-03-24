@@ -1,0 +1,43 @@
+.section5{
+
+    height:  auto;
+    /* background-image: url("../../../images/book.jpg"); */
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+
+}
+
+.name input,.email input,.phone input, .message textarea{
+
+    width: 100%;
+    color: #000;
+    outline: none;
+    font-size: 1em;
+    background: #fff;
+    border: 1px solid #fff;
+    -webkit-appearance: none;
+   
+
+}
+
+.book input[type="submit"]{
+
+    display: block;
+    color: #fff;
+  
+    padding: 10px 60px;
+    font-size: .9em;
+    /* width: 100%; */
+    cursor: pointer;
+    letter-spacing: 1px;
+    border: none;
+    outline: none;
+    background: #f53275;
+}
+
+.section5-input{
+
+    width: 40%;
+}
