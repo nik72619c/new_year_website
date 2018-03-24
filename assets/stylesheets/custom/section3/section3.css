@@ -1,0 +1,43 @@
+.section3{
+
+    /* background: url("../../../images/mid3.jpg"); */
+    height:auto;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.section3-flex-flexchild{
+
+    background: rgba(88, 88, 88, 0.62);
+    transition-duration: 1s;
+}
+
+.flex-flexchild-h4{
+
+    font-size: 20px;
+    text-transform: uppercase;
+    margin: 25px 0 20px;
+    color: #e709c1;
+    font-weight: 600;
+
+}
+
+.flex-flexchild-p{
+
+    font-size: 14px;
+    letter-spacing: .5px;
+    color: #fdfdfd;
+    line-height: 1.8em;
+}
+
+.section3-flex{
+
+    width: 80%;
+
+}
+
+.section3-flex-flexchild:hover{
+
+    background-color: black;
+}
