@@ -1,0 +1,130 @@
+.section10-footer{
+
+    background-color: #120b28;
+    height: auto;
+}
+
+.section10-flexchild h2{
+
+    font-size: 1.5em;
+    color: #fff;
+}
+
+.section10-ul ul li{
+
+    color: white;
+    list-style-type: none;
+    color: #bfbfbf;
+    font-size: 14px;
+    margin-bottom: 17px;
+    margin-right: 2%;
+}
+
+.section10-usericons ul{
+
+    list-style: none;
+}
+
+.section10-usericons ul li i{
+
+    color: white;
+    border: 2px solid white;
+   text-align: center;
+
+}
+
+.flexbox{
+
+    display: flex;
+}
+
+.facebook{
+transition-duration: 1s;
+
+}
+
+.facebook:hover{
+
+    background-color: #3B5998;
+
+
+}
+
+.twitter{
+    transition-duration: 1s;
+    
+    }
+    
+    .twitter:hover{
+    
+        background-color: #1DA1F2;
+    
+    
+    }
+
+    .instagram{
+    transition-duration: 1s;
+    
+    }
+    
+    .instagram:hover{
+    
+        background-color: #833AB4;
+    
+    
+    }
+
+    .google{
+        transition-duration: 1s;
+        
+        }
+        
+        .google:hover{
+        
+            background-color: #DD4B39;
+        
+        
+        }
+    
+        .section10-flexchild p{
+
+            font-size: 1em;
+            line-height: 2em;
+           
+            color: #bfbfbf;
+        }
+
+        .section10-flexchild input{
+
+            color: #fff;
+            font-size: 14px;
+            width: 56%;
+            border: none;
+            background: rgba(0, 0, 0, 0.22);
+            letter-spacing: 2px;
+            padding:3%;
+            border: 1px solid white;
+        }
+        .section10-flexchild input[placeholder="Enter your email..."]{
+
+            text-align: left;
+        }
+
+        .section10-flexchild button{
+
+            color: #fff;
+            border: none;
+            padding: 15px 0;
+            text-align: center;
+            text-decoration: none;
+            background: #f53275;
+            border: 1px solid white;
+           
+        }
+
+        .section10-innerflex div{
+
+            width: 30%;
+            height: 30%;
+            margin-right: 2%;
+        }
